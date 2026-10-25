@@ -230,7 +230,6 @@ Confirm that:
 - NumPy
 - SciPy
 - scikit-learn
-- Jupyter Notebook (if used in the project)
 
 ## Future Improvements
 
